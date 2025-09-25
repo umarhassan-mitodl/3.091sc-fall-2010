@@ -5,6 +5,8 @@ description: This page contains materials for the first session, which summarize
   of chemistry, atomic structure and the periodic table. It features a 1-hour lecture
   video, and also presents the prerequisites, learning objectives, reading assignment,
   lecture slides, homework with solutions, and resources for further study.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Structure of the Atom

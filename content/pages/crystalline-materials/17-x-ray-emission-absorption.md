@@ -4,6 +4,8 @@ description: This page contains materials for the session on x-ray emission and 
   It features a 1-hour lecture video, and also presents the prerequisites, learning
   objectives, reading assignment, lecture slides, homework with solutions, and resources
   for further study.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Crystalline Materials
