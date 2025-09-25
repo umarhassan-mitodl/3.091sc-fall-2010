@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/0e2ea7da03614498d925dfb02cf58e4e_StY_01uUFSY.pdf
 file_size: 17050
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

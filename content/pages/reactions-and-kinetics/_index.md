@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains a course module on reactions and kinetics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Reactions and Kinetics

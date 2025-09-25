@@ -4,6 +4,8 @@ description: This page contains materials for self-assessment on the Amorphous M
   module. It presents problems and solution keys from the weekly quizzes and exam
   problems, plus supplemental exam problems with solutions for study, and features
   help session videos by some teaching assistants.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Amorphous Materials
